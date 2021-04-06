@@ -100,8 +100,6 @@ hr{
     width: 600px;
   }
   .slider-for{
-    display: flex;
-    flex-direction: column;
     width: 600px;
     margin:auto;
 	overflow: hidden; 
