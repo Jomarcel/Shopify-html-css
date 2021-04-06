@@ -337,7 +337,7 @@ hr{
     .buttons{
         position: absolute; 
         left: -1%;
-        top: -5%;
+        top: -7%;
         margin-top: -30px;
         display: flex;
         flex-direction: row;
